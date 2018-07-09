@@ -49,4 +49,4 @@ Need more tips or looking for meetups in the area of Amsterdam check our [techsi
 
 ### Submitting
 
-Are you finished with the challeng? Great, we can't wait to see it. If you are in the interviewing process you can see in the mail you received of us concerning the challenge how you can submit your work. If you came here via another source, [apply via our site](https://www.effectory.com/careers/software-developer/) and recieve the instructions shortly.
+Are you finished with the challenge? Great, we can't wait to see it. If you are in the interviewing process you can see in the mail you received of us concerning the challenge how you can submit your work. If you came here via another source, [apply via our site](https://www.effectory.com/careers/software-developer/) and recieve the instructions shortly.
