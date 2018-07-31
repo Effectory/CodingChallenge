@@ -1,7 +1,7 @@
 # CodingChallenge
-If you are landing on this page you are considering taking an interview for a developer position at [Effectory](http://www.effectory.com/), or are in the interview process. That's great! 
+If you are landing on this page because you're willing to apply or already applied for a developer position at [Effectory](http://www.effectory.com/). That's great!
 
-To get a bit of a gist of how you think, program and solve problems we have a small code challange for you. Hope you have fun with it!
+To get a bit of a gist of how you think, program and solve problems we have a small code challenge for you. Good luck (and have fun!)
 
 # Counting bits
 Given an integer, n, we want to know the following:
@@ -44,9 +44,9 @@ Search the position: 0, 5, 7
 Return { 3, 0, 5, 7 }
 
 
-Need more tips or looking for meetups in the area of Amsterdam check our [techsite](http://tech.effectory.com/).
+Need more tips or looking for meetups in the area of Amsterdam? Check out our [techsite](http://tech.effectory.com/).
 
 
 ### Submitting
 
-Are you finished with the challenge? Great, we can't wait to see it. If you are in the interviewing process you can see in the mail you received of us concerning the challenge how you can submit your work. If you came here via another source, [apply via our site](https://www.effectory.com/careers/software-developer/) and recieve the instructions shortly.
+Did you finish the challenge? Great! We can't wait to have a look at it. If you're currently applying for Effectory, please check your mail on how to submit your work. If you want to work at Effectory, you can [apply via our site] (https://www.effectory.com/careers/software-developer/) and follow the instructions. If you just wanted to complete this challenge for fun, we hope you had fun!
