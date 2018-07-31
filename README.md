@@ -49,4 +49,4 @@ Need more tips or looking for meetups in the area of Amsterdam? Check out our [t
 
 ### Submitting
 
-Did you finish the challenge? Great! We can't wait to have a look at it. If you're currently applying for Effectory, please check your mail on how to submit your work. If you want to work at Effectory, you can [apply via our site] (https://www.effectory.com/careers/software-developer/) and follow the instructions. If you just wanted to complete this challenge for fun, we hope you had fun!
+Did you finish the challenge? Great! We can't wait to have a look at it. If you're currently applying for Effectory, please check your mail on how to submit your work. If you want to work at Effectory, you can [apply via our site](https://www.effectory.com/careers/software-developer/) and follow the instructions. If you just wanted to complete this challenge for fun, we hope you had fun!
